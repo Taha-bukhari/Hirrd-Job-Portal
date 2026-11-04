@@ -26,10 +26,10 @@ A modern job portal web application that connects candidates with recruiters. Th
 ![Hirrd Homepage](screenshots/HomePage.png)
 
 ### Job Listings
-![Job Listings](screenshots/Latest-Jobs.png)
+![Job Listings](screenshots/LatestJobs.png)
 
 ### Dashboard
-![Post a Jobs](screenshots/Post-Jobs.png)
+![Post a Jobs](screenshots/PostJobs.png)
 
 ## 🌐 Live Demo
 
