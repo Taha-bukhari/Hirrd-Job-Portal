@@ -23,41 +23,17 @@ A modern job portal web application that connects candidates with recruiters. Th
 ## 📸 Screenshots
 
 ### Homepage
-![Hirrd Homepage](HomePage)
+![Hirrd Homepage](screenshots/HomePage.png)
 
 ### Job Listings
-![Job Listings](screenshots/job-listings.png)
+![Job Listings](screenshots/Latest-Jobs.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Post a Jobs](screenshots/Post-Jobs.png)
 
 ## 🌐 Live Demo
 
 [View Live Project](https://hirrd-navy.vercel.app/)
-
-## 💻 Installation and Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Taha-bukhari/Hirrd-Job-Portal
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd E:\Syed Taha\JOB PORTAL TUTORIAL
-```
-
-3. Install dependencies:
-
-```bash
-npm install
-```
-
-4. Configure the required environment variables in a `.env` file.
-
-5. Start the development server using the command specified in your project's `package.json`.
 
 ## 👨‍💻 Author
 
