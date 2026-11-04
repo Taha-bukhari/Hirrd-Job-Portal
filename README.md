@@ -1,16 +1,68 @@
-# React + Vite
+# Hirrd – Full-Stack Job Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern job portal web application that connects candidates with recruiters. The platform allows candidates to explore job opportunities and recruiters to manage job postings and applications.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Separate candidate and recruiter roles
+- User authentication and onboarding
+- Job posting and management
+- Job application functionality
+- Saved jobs
+- Search and filtering by role, company, and location
+- Database integration for jobs and applications
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Tailwind CSS
+- shadcn/ui
+- Supabase
+- Clerk
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Homepage
+![Hirrd Homepage](HomePage)
+
+### Job Listings
+![Job Listings](screenshots/job-listings.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## 🌐 Live Demo
+
+[View Live Project](https://hirrd-navy.vercel.app/)
+
+## 💻 Installation and Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Taha-bukhari/Hirrd-Job-Portal
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd E:\Syed Taha\JOB PORTAL TUTORIAL
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Configure the required environment variables in a `.env` file.
+
+5. Start the development server using the command specified in your project's `package.json`.
+
+## 👨‍💻 Author
+
+**Syed Taha Bukhari**
+
+- GitHub: [Taha-bukhari](https://github.com/Taha-bukhari)
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/tahabukhari-a512702a8)
+- Email: tahabukhari175@gmail.com
